@@ -1,0 +1,6 @@
+[submodule "DF-Portfolio"]
+	path = DF-Portfolio
+	url = https://github.com/danishfarooq737/DF-Portfolio
+[submodule "Task_Manager"]
+	path = Task_Manager
+	url = https://github.com/danishfarooq737/Task_Manager
