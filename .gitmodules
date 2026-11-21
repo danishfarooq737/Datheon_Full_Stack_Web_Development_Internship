@@ -4,3 +4,9 @@
 [submodule "Task_Manager"]
 	path = Task_Manager
 	url = https://github.com/danishfarooq737/Task_Manager
+[submodule "Weather_app"]
+	path = Weather_app
+	url = https://github.com/danishfarooq737/Weather_app
+[submodule "DF-Store-Website"]
+	path = DF-Store-Website
+	url = https://github.com/danishfarooq737/DF-Store-Website
